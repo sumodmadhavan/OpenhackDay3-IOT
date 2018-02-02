@@ -14,7 +14,7 @@ namespace DeviceId
     class Program
     {
         static RegistryManager registryManager;
-        static string connectionString = "316IoTHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=/hcfaoeRB5UHm7nDkU/G25TrlTW8V+MGNhFT8JfPzfw=";
+        static string connectionString = "HostName=316IoTHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=/hcfaoeRB5UHm7nDkU/G25TrlTW8V+MGNhFT8JfPzfw=";
 
 
 
