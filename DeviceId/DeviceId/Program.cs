@@ -28,7 +28,8 @@ namespace DeviceId
         private static async Task AddDeviceAsync()
         {
             string deviceId = "316Tunstile01";
-            Device device; try
+            Device device;
+            try
             {
                 device = await registryManager.AddDeviceAsync(new Device(deviceId));
             }
