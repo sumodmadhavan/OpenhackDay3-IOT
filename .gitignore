@@ -8,3 +8,5 @@
 /DeviceId/packages
 /.vs
 /DeviceId/DeviceId/obj/Release
+/ReadDeviceToCloudMessages/bin/Debug
+/ReadDeviceToCloudMessages/obj
